@@ -1,1 +1,2 @@
-This is test for git add and git commit.
+This is test for git add and git commit
+Second.
